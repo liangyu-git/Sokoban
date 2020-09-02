@@ -1,4 +1,4 @@
-# 2020-pd2-sokoban  
+# Sokoban  
 ## Video link  
 https://youtu.be/XbYYIG02VvE
 ## How to play  
