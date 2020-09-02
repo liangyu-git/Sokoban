@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>mapImage/Character1.png</file>
+        <file>mapImage/Character2.png</file>
+        <file>mapImage/Character4.png</file>
+        <file>mapImage/Character7.png</file>
+        <file>mapImage/Crate_Brown.png</file>
+        <file>mapImage/EndPoint_Brown.png</file>
+        <file>mapImage/GroundGravel_Grass.png</file>
+        <file>mapImage/Wall_Brown.png</file>
+        <file>mapImage/Ground_Sand.png</file>
+        <file>mapImage/CrateDark_Brown.png</file>
+        <file>mapImage/mainpage.png</file>
+        <file>mapImage/crystal.png</file>
+        <file>mapImage/Portal.PNG</file>
+        <file>mapImage/arrowKey.png</file>
+        <file>mapImage/R_icon.png</file>
+    </qresource>
+</RCC>
